@@ -23,6 +23,15 @@ header {
     padding: 2rem 0;
 }
 
+/* Estilo para a imagem grande abaixo do título */
+.hero-image img {
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+    object-fit: cover;
+    margin-bottom: 2rem;
+}
+
 h1 {
     font-size: 4rem;
     font-weight: 700;
